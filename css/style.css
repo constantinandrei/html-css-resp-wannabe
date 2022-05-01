@@ -140,11 +140,6 @@ img {
         max-width: 740px;
         width: 100%;
     }
-
-    .steps {
-        width: 100%;
-    }
-
 }
 
 @media screen and (max-width: 480px) {
